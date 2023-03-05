@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "China hits out at US over TikTok ban on federal devices",
+            "description": "Beijing accuses Washington of attempting to use state power to suppress foreign companies.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-64795548",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A7F7/production/_128799924_gettyimages-1450783696.jpg",
+            "publishedAt": "2023-02-28T10:52:17.5605701Z",
+            "content": "China has accused the US of overreacting after federal employees were ordered to remove the video app TikTok from government-issued phones.\r\nOn Monday, the White House gave government agencies 30 day… [+3218 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Cold snap leaves Barcelona covered in snow",
+            "description": "Storm Juliette sets off a weather alert in parts of northern Spain as cold air comes in from the Arctic.",
+            "url": "http://www.bbc.co.uk/news/world-europe-64791549",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2FE3/production/_128795221_p0f5rn3l.jpg",
+            "publishedAt": "2023-02-28T09:07:20.4811631Z",
+            "content": "Cold snap leaves Barcelona covered in snow. Video, 00:00:26Cold snap leaves Barcelona covered in snow"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Inside the UK's Mormon missionary boot camp",
+            "description": "The life of a young Mormon missionary trying to bring others into the religion.",
+            "url": "http://www.bbc.co.uk/news/uk-64790111",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D0D3/production/_128795435_419837.jpg",
+            "publishedAt": "2023-02-28T09:07:18.4972815Z",
+            "content": "Every year, thousands of young Mormons go on missions to try to recruit others into the religion. The BBC was given access to their UK boot camp, where they learn how to teach Mormon beliefs and use … [+8242 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Timed Teaser: Who backed Russia over Ukraine?",
+            "description": "Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go!",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64785756",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EB1D/production/_128798106_warindex.jpg",
+            "publishedAt": "2023-02-28T08:52:17.9512425Z",
+            "content": "Test your news knowledge against the clock. Can you outscore your friends? \r\nIf you cannot see the quiz, follow this link.\r\nWant more of the same? Try last week's teaser, or take Friday's quiz of the… [+104 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: Viral conspiracy theories falsely claim the war is fake",
+            "description": "False claims that the war in Ukraine is a hoax have been shared online as the country marked the first anniversary of Russia's full-scale invasion.",
+            "url": "http://www.bbc.co.uk/news/world-europe-64789737",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/121F/production/_128793640_gettyimages-1247327412.jpg",
+            "publishedAt": "2023-02-28T07:52:18.3572249Z",
+            "content": "The first anniversary of Russia's full-scale invasion of Ukraine has led to a spike in false claims about the war on social media, with some posts gaining millions of engagements.\r\nA number of US rig… [+4401 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Sunak in Belfast a day after reaching NI Brexit deal",
+            "description": "Rishi Sunak set to face tough questions in Northern Ireland over his Brexit deal with the EU.",
+            "url": "http://www.bbc.co.uk/news/live/uk-64794293",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-02-28T06:22:18.6066205Z",
+            "content": "A new Brexit deal...was reached and announced by the UK and EU, concerning trade arrangements in Northern Ireland. The so-called Windsor Framework will effectively replace the Northern Ireland Protoc… [+1368 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "What to know about the Alex Murdaugh murder trial",
+            "description": "The defence rests its case in a double murder trial that has brought a powerful family to its knees.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64790627",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17169/production/_128796549_52709454325_f916942e17_k.jpg",
+            "publishedAt": "2023-02-28T02:22:14.2480441Z",
+            "content": "The defence has rested its case in the high-profile US trial of a former lawyer who is accused of murdering his wife and son.\r\nAlex Murdaugh, 54, a now-disbarred South Carolina attorney, has pleaded … [+5710 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ron DeSantis tightens his control over Walt Disney World",
+            "description": "Walt Disney World's self-governing district is now under the control of Florida's governor.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64792926",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/932F/production/_128797673_fc5dc228387117371c811aa5de4115a8cc1375a30_0_5500_36671000x667.jpg",
+            "publishedAt": "2023-02-28T01:07:17.2626836Z",
+            "content": "Florida Governor Ron DeSantis warned people to \"buckle up\" as he signed a bill giving the state control over Disney's sprawling Orlando theme parks.\r\nThe bill strips power uniquely held by Disney for… [+3310 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: Zelensky says situation in Bakhmut worsening",
+            "description": "Russian forces have been trying to capture the eastern city of Bakhmut for over six months.",
+            "url": "http://www.bbc.co.uk/news/world-europe-64793923",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15C65/production/_128798198_gettyimages-1247538450.jpg",
+            "publishedAt": "2023-02-28T00:52:15.6060834Z",
+            "content": "The situation in the city of Bakhmut, on the eastern frontline, is becoming \"more and more difficult\", Ukraine's President Volodymyr Zelensky has said.\r\nRussian forces have been trying to take the ci… [+2909 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Winter storm brings snow to California and tornadoes to central US",
+            "description": "California's severe weather had moved eastward, with seven tornadoes reported in Oklahoma.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64789869",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A7DE/production/_128747924_gettyimages-1469920015.jpg",
+            "publishedAt": "2023-02-27T15:52:22.2371023Z",
+            "content": "A winter storm that brought unprecedented snow to southern California has moved eastward, bringing with it tornadoes and powerful winds. \r\nResidents in Oklahoma, Kansas, Missouri and Texas were asked… [+2864 chars]"
+        }
+    ]
+}
